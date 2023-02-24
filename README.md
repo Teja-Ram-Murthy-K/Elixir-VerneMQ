@@ -19,3 +19,7 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/my_vernemq_plugin>.
 
+
+Adding Medium URL for more visibility.
+Link : https://medium.com/@tejarammurthyk/vernemq-building-plugin-with-elixir-in-mac-m2-machine-b933cb11890a
+
